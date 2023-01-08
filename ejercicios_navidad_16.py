@@ -1,5 +1,8 @@
 def invert(lst):
-    for number in lst:
-         number * -1
-    return lst
-  es como que no pilla el -1
+    number = 0
+    while number == 4:
+        lst[number] * -1
+        number + 1
+ None should equal [-1, -2, -3, -4, -5]
+None should equal [-1, 2, -3, 4, -5]
+None should equal []
