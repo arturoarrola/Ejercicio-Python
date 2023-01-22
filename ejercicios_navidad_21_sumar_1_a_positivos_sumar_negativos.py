@@ -9,5 +9,5 @@ def count_positives_sum_negatives(arr):
         if number > 0:
             positivos += 1
     return [positivos,negativos]
-  correcto
+  #correcto
             
